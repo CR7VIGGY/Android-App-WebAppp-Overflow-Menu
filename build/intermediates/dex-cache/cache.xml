@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\0d54009eae8fec72a512644690bdfb7d71064e1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="E:\AndroidPrograms\Simple-Calculator-master\WebApp\app\build\intermediates\pre-dexed\debug\classes_76a29e59e00b3970fb5bc0dc4c3cf12883643564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\42b350af275d66781d1326bf4284fe40585f717b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\AndroidPrograms\Simple-Calculator-master\WebApp\app\build\intermediates\pre-dexed\debug\classes_176a972fa2f72bf224546d50a5818b573f6e219b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\27e69ed2ff17627d8e5ceb5ab27bff53699c597c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="E:\AndroidPrograms\Simple-Calculator-master\WebApp\app\build\intermediates\pre-dexed\debug\classes_5f75a9a3c3cf557f796fb4fcd5d8e30d70304209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\6cda23e56748411060940d430676a6186d215050\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\AndroidPrograms\Simple-Calculator-master\WebApp\app\build\intermediates\pre-dexed\debug\classes_afbe54dfbb51f9f2c19f38cd57bd90dc2db04679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\b5f4f6e3ac6592b993f49ac50e041889d68b3348\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="E:\AndroidPrograms\Simple-Calculator-master\WebApp\app\build\intermediates\pre-dexed\debug\classes_c14e73a07fcfae795aafea0a3809b13e9333fa01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\5d0bc14bbaa1c11d35c3b1bf548f12d0c790e8d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\AndroidPrograms\Simple-Calculator-master\WebApp\app\build\intermediates\pre-dexed\debug\classes_3704e632e81d7d29bd7aa64be64c117630ef0618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\677e42a3f16bffae58d9d0294710eb1c620af38a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="E:\AndroidPrograms\Simple-Calculator-master\WebApp\app\build\intermediates\pre-dexed\debug\classes_7562be3e20f26f1aac262ee083459a90cc69f47e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\a5cc167b81c1a0416003ea94c323f32d5c6254b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="E:\AndroidPrograms\Simple-Calculator-master\WebApp\app\build\intermediates\pre-dexed\debug\classes_4696a5414f09d9e73591b90d6a1c3596f263e71b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\4e49826cb5183321e9c3f4ab9c3c7f70a3c9b7a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="E:\AndroidPrograms\Simple-Calculator-master\WebApp\app\build\intermediates\pre-dexed\debug\classes_b0fc44a7979708b698730b18ab29ebcd7be45982.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\e049811392dd03523daf95b28c8d0bd2ded8f392\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="E:\AndroidPrograms\Simple-Calculator-master\WebApp\app\build\intermediates\pre-dexed\debug\classes_a7ef38ebb9bb16a27a0154bfa11084c3d5d76aff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\f1171c6e61e49619681d225ca66142e0011b8681\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="E:\AndroidPrograms\Simple-Calculator-master\WebApp\app\build\intermediates\pre-dexed\debug\classes_193a50e950deba20547c6a81890a0607934d48ff.jar" />
+    </item>
+
+</items>
